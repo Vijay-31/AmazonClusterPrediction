@@ -1,6 +1,6 @@
 # AmazonClusterPrediction Using K-Means and Hierarchical Clustering
 
-The Dataset is based on Sample of Amazon.com's customer details, with with we want to predict the <b> Purchasing Power <b> of the Customer based on the data provided and divide them into diferent clusters which suits them the most so that the company can understand the purchasing Power of its customers and use the data to target ads and other campgains to sell more products 
+The Dataset is based on Sample of Amazon.com's customer details, with with we want to predict the <b> Purchasing Power </b> of the Customer based on the data provided and divide them into diferent clusters which suits them the most so that the company can understand the purchasing Power of its customers and use the data to target ads and other campgains to sell more products 
 
 ## K-Means Clustering
 K-means clustering is a machine learning algorithm used to group similar data points into K distinct clusters based on their features or attributes. The "K" in K-means refers to the number of clusters to be formed.
